@@ -8,3 +8,14 @@ header
 {
     text-align:center;
 }
+
+img#moose
+{
+    transition: transform .2s;
+}
+
+img:hover
+{
+    transform:scale(1.05);
+    cursor:pointer;
+}
