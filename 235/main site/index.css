@@ -1,0 +1,10 @@
+﻿body
+{
+    font-family:'Comic Sans MS';
+    background-image:linear-gradient(to right, red, orange, yellow, orange, yellow, green, yellow, green, blue, green, blue, indigo, blue, indigo, violet, indigo, violet, red, violet, red, orange);
+}
+
+header
+{
+    text-align:center;
+}
