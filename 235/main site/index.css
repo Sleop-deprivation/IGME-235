@@ -1,7 +1,7 @@
 ﻿body
 {
-    font-family:'Comic Sans MS';
-    background-image:linear-gradient(to right, red, orange, yellow, orange, yellow, green, yellow, green, blue, green, blue, indigo, blue, indigo, violet, indigo, violet, red, violet, red, orange);
+    font-family:Bahnschrift, 'Arial Narrow', Arial, sans-serif;
+    background-image:linear-gradient(to left, #92beba, #509590);
 }
 
 header
